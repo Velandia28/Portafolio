@@ -25,24 +25,23 @@ h1{
 }   
 a{
     text-decoration: none ;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
     font-size: large ;
 }
 ul{
     display: flex ;
-    justify-content:space-evenly;
+    justify-content:space-between;
     list-style: none;
-    padding:22px
-    display flex;
-    gap: 10px;
-    justify-content: space-around;
+    padding:100%
+    gap: 30px;
+    
 }
 header{
     background-color: rgb(66, 115, 131);
-    position: fixed;
+    position: flex;
     padding: 20px;
-    box-shadow: 0 2px 5px rgba(112, 25, 25, 0.1);
+    box-shadow: 0 2px 5px rgba(232, 11, 11, 0.1);
 
 }
 #img1, #imdev{
@@ -53,17 +52,19 @@ header{
     border-radius: 18%;
 }
 #div1{   
-    display: flex;
-    align-items:end ;
+    display:inline-flex;
+    align-items:center ;
     border: rgba(91, 24, 73, 0.4) solid;
-    border-radius: 27px;
-    width: 35vw;
+    border-radius: 20px;
+    width: 38vw;
+    
 }
 #H2{
-    text-align: left;
+    text-align: rigth;
     font-family: titulos;
+    margin-top: 30px;
     margin-left: 80px;
-    font-size: 2em;
+    font-size: 3em;
 }
 #p1{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -71,8 +72,10 @@ header{
     display: flex;
 }
 #h21{
+    text-align: right;
+    margin-right:180px;
     font-family: titulos;
-    font-size: 1.5em;
+    font-size: 3em;
 }
 #div2 {
     display: flex;
@@ -84,7 +87,4 @@ header{
     width: 45vw;
     height: 25vw;
     margin-left: auto;
-}
-main{
-    margin-top: 120 ;
 }
