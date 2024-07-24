@@ -8,3 +8,7 @@ en el repositorio hay archivos como tipografias, imagenes y HTML-CSS para el des
 
 > [!WARNING]  
 > Esto es una alerta, toda la informacion contemplada en el repositorio es personal y no esta permitida su replicacion por ningun medio 
+
+```Bash
+Informacion personal de *Luis Felipe Velandia Llanes*
+``` 
