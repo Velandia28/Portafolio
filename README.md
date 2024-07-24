@@ -6,3 +6,5 @@ en el repositorio hay archivos como tipografias, imagenes y HTML-CSS para el des
 > [!IMPORTANT]  
 > Este repositorio solo tiene finalidades academicas, se realiza para una evaluacion de desempeño en HTML y CSS como parte del desarrollo academico en Campuslands
 
+> [!WARNING]  
+> Esto es una alerta, toda la informacion contemplada en el repositorio es personal y no esta permitida su replicacion por ningun medio 
